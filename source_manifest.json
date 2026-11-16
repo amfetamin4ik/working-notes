@@ -1,0 +1,266 @@
+{
+  "method": "Read-only static source/XML audit; SDK-DLL equivalence NOT established",
+  "files": [
+    {
+      "relative_path": "Colonization.exe",
+      "bytes": 12234752,
+      "sha256": "5a1e2c2ba76319eea6bf40fa40d835468f0e0863f5207a6263e867f1c72e7ac4",
+      "mtime_local": "2025-02-10T21:44:50"
+    },
+    {
+      "relative_path": "Assets/CvGameCoreDLL.dll",
+      "bytes": 4329472,
+      "sha256": "a1c0e5a185b1222d5631694696276c0ac19b4d974363344b1e6798b26c7499ee",
+      "mtime_local": "2026-09-02T12:12:14"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvCity.cpp",
+      "bytes": 336855,
+      "sha256": "459d6e9ee3765b9f8076305323facd17471e64c8f45938d403c8d8414dcf0785",
+      "mtime_local": "2025-08-07T12:53:48"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvPlayer.cpp",
+      "bytes": 681006,
+      "sha256": "0dda53a93eae0921fd2d06f21082c7e9731f164d79f9105ba7cda7ad84b6d614",
+      "mtime_local": "2025-08-28T10:52:50"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvTeam.cpp",
+      "bytes": 80096,
+      "sha256": "d5384107ab11874c45f987432dd15d1c491f12a84b7c1ab3347e403c1585b8ee",
+      "mtime_local": "2025-08-29T09:45:44"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvUnit.cpp",
+      "bytes": 393166,
+      "sha256": "709f0352020c20f090fd0792ceb7f45e93a540e3322f993a7752b42fbac959d4",
+      "mtime_local": "2025-08-28T11:52:54"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvPlayerAI.cpp",
+      "bytes": 430466,
+      "sha256": "ea3e101420faadde64e35f6c3d8fd92cb8e21777881363ba2c913f85d49308ec",
+      "mtime_local": "2025-07-28T12:55:48"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvGame.cpp",
+      "bytes": 200979,
+      "sha256": "6241c9fef81a0f2afecc221c3567a3517df5ba5fb6b972f38f8bf82bbcecc949",
+      "mtime_local": "2025-08-28T12:15:32"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvGameCoreUtils.cpp",
+      "bytes": 52794,
+      "sha256": "e022d2c1527470fa248ea7dbb35efb05a0957c302f94306bde5d8f27928fba1a",
+      "mtime_local": "2024-09-26T12:32:46"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvMapGenerator.cpp",
+      "bytes": 34405,
+      "sha256": "2fce557d0ba4495ec48ea4b29e9794569edb6d2891dd1e0e65810e82bf7451ba",
+      "mtime_local": "2024-09-26T12:32:46"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvPlot.cpp",
+      "bytes": 241752,
+      "sha256": "be58548fc0ced374d0941c99705bc5f32467e2c1e29dce72f21fbff7e8777fa8",
+      "mtime_local": "2024-09-26T12:32:46"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvInfos.cpp",
+      "bytes": 486318,
+      "sha256": "c4c56b5beb8aab9c74a3b8aee75202ae71f6d7bd9af07c48ba75c6819b9504ee",
+      "mtime_local": "2024-09-26T12:32:46"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvXMLLoadUtilitySet.cpp",
+      "bytes": 98165,
+      "sha256": "6fa5094f11a6fb4ef072d77505fe667be3db30bcd292782edca8bce378c979ff",
+      "mtime_local": "2024-09-26T12:32:46"
+    },
+    {
+      "relative_path": "Assets/XML/GlobalDefines.xml",
+      "bytes": 22892,
+      "sha256": "f7bef795a1c79775200a7deb5f02d7fd855aef7288d27066a3b71f17039dcea4",
+      "mtime_local": "2025-03-14T09:46:56"
+    },
+    {
+      "relative_path": "Assets/XML/GlobalDefinesAlt.xml",
+      "bytes": 30703,
+      "sha256": "eba250af1d2a30b37bf02f4468985966700926644548743cf0b692f08e2f6de8",
+      "mtime_local": "2026-09-02T12:03:40"
+    },
+    {
+      "relative_path": "Assets/XML/GameInfo/CIV4HandicapInfo.xml",
+      "bytes": 28588,
+      "sha256": "3a4b921ff549f1ad37de83f5dbae4f91e3d580db33c0446fbca7ec91d4781263",
+      "mtime_local": "2025-11-07T16:15:36"
+    },
+    {
+      "relative_path": "Assets/XML/GameInfo/CIV4GameSpeedInfo.xml",
+      "bytes": 4854,
+      "sha256": "934ae5a2aa2d7abe42cd6b5f3cdff1363bfb311d17f45ce72c7c128cc729f195",
+      "mtime_local": "2025-02-10T21:44:50"
+    },
+    {
+      "relative_path": "Assets/XML/GameInfo/CIV4VictoryInfo.xml",
+      "bytes": 4051,
+      "sha256": "10ab8c98fe60ce724a29e681e2b9c96531294fca458015f4ddd83bf20548eb74",
+      "mtime_local": "2025-02-10T21:44:50"
+    },
+    {
+      "relative_path": "Assets/XML/Civilizations/CIV4TraitInfos.xml",
+      "bytes": 332382,
+      "sha256": "c0b9cbc8f3c3d2bb66781e2dd777653d8703ebe9df35c728d39398c88effae56",
+      "mtime_local": "2025-08-19T15:01:38"
+    },
+    {
+      "relative_path": "Assets/XML/Civilizations/CIV4LeaderHeadInfos.xml",
+      "bytes": 884520,
+      "sha256": "69cd52b10d4ce7a810eeb392e48e2f8861bd580abd1bfe5058cc18da23f6ae5e",
+      "mtime_local": "2025-08-19T14:49:40"
+    },
+    {
+      "relative_path": "Assets/XML/Civilizations/CIV4CivilizationInfos.xml",
+      "bytes": 1106533,
+      "sha256": "45d91bae27393dbc19c010b97e600da47f5e0ed368fe303fd6039c3e9622c9db",
+      "mtime_local": "2025-02-10T21:44:50"
+    },
+    {
+      "relative_path": "Assets/XML/Units/CIV4UnitInfos.xml",
+      "bytes": 1242419,
+      "sha256": "1d87ddba763fd639a656b33c2147ab2a220033de95a88d172798b469cb1868cf",
+      "mtime_local": "2025-08-25T10:42:58"
+    },
+    {
+      "relative_path": "Assets/Python/Screens/CvRevolutionAdvisor.py",
+      "bytes": 21132,
+      "sha256": "69639a7401dac692bb414b2edf58ba3389bba393aa568b7737cdc325eeffbbb8",
+      "mtime_local": "2025-02-10T21:44:46"
+    },
+    {
+      "relative_path": "Assets/Python/CvGameUtils.py",
+      "bytes": 7776,
+      "sha256": "26153eeee20a0c67087cef8561f8e9be7d57ca24c0c2668b0da0db7392fc89e2",
+      "mtime_local": "2025-02-10T21:44:46"
+    },
+    {
+      "relative_path": "changelog.txt",
+      "bytes": 17722,
+      "sha256": "4007615ee1eaf99082f7a80076ffc2305ffcc60027737d09ede16e87ef8f899c",
+      "mtime_local": "2025-02-10T21:44:54"
+    },
+    {
+      "relative_path": "CivilizationIV.ini",
+      "bytes": 5975,
+      "sha256": "ff989e0e70869a791564f441c65e2a7a8aea72976b0df6ae89b1c97983b9d8e0",
+      "mtime_local": "2025-09-09T13:48:00"
+    },
+    {
+      "bytes": 162992,
+      "sha256": "115eb75f68d7ce05cea7c14e4a73297e5f5eb59b2cd92c188a299f9bfb174707"
+    },
+    {
+      "bytes": 32148,
+      "sha256": "70c5fc7f1342c2f3caa5ee641dc9e7271dcb208ac4b61c16b1b7781b9fc52e61"
+    },
+    {
+      "relative_path": "Assets/XML/GameInfo/CIV4CivicInfos.xml",
+      "bytes": 16630,
+      "sha256": "2255958e1f026c76f524ec2deb73c1a18689cb09116e1deb6b652ce5c2e0919b",
+      "mtime_local": "2025-02-10T21:44:50"
+    },
+    {
+      "relative_path": "Assets/Python/EntryPoints/CvGameInterface.py",
+      "bytes": 6419,
+      "sha256": "8d85d0c2cf2f25bb259f35ec86a78237c85b4bb8beda80e1c638e586278b89e2",
+      "mtime_local": "2025-02-10T21:44:46"
+    },
+    {
+      "relative_path": "Project Files/DLLSources/CvGlobals.cpp",
+      "bytes": 79647,
+      "sha256": "4a80d27222075d463539862b8334bb523f289e6cafa9c8567983e8e945829515",
+      "mtime_local": "2024-09-26T12:32:46"
+    },
+    {
+      "relative_path": "Assets/XML/GameInfo/CIV4WorldInfo.xml",
+      "bytes": 4810,
+      "sha256": "643f69e212c6f2666e7684721c1a6b1953b8f496dd858cf517259e5724e16608",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/GameInfo/CIV4FatherInfos.xml",
+      "bytes": 96750,
+      "sha256": "f54c807d22f92df2eed74807ff4c70747317c27f71d9f803b921c70acee62487",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/GameInfo/CIV4FatherPointInfos.xml",
+      "bytes": 9409,
+      "sha256": "b48c3f40bdfedae5bc569419dc493ba508bc1d0c91ad722155456e1bf1cd705a",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/GameInfo/CIV4HurryInfo.xml",
+      "bytes": 1524,
+      "sha256": "086f17d4e97b04f53464833f12d28a5a31c905c6ed7e82d8cf50f26e641073e7",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Units/CIV4ProfessionInfos.xml",
+      "bytes": 101226,
+      "sha256": "7b226c06b472f6b1323ee3ae529ce4fbf4a20cf933f53e4cbf17d8573af8440d",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Units/CIV4PromotionInfos.xml",
+      "bytes": 238769,
+      "sha256": "1a7ce08ee5ef730572f9482e9fde6f6e3f66527b2145afa2e53dc0b873d7f22d",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Buildings/CIV4BuildingInfos.xml",
+      "bytes": 431529,
+      "sha256": "75d028e9643a27e4ae09b994de591a40a48541e3f619a3b8aeb3820889cc2400",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Units/CIV4BuildInfos.xml",
+      "bytes": 32520,
+      "sha256": "7786d97499c34d58fb0935a9d883bf5a6036026fe1981bae1a59a2e5f64aa184",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Terrain/CIV4ImprovementInfos.xml",
+      "bytes": 93734,
+      "sha256": "1a787072c5aa395b4bf6da584d046c4cb5b677f090a06664f3143b8b2cfaf280",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Terrain/CIV4TerrainInfos.xml",
+      "bytes": 57513,
+      "sha256": "25d33d37f1b36221cd1c4644bf3f74893f6a80c1e5f473bc8208a52e0a4ef0e2",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Terrain/CIV4BonusInfos.xml",
+      "bytes": 91577,
+      "sha256": "08ffc9163d7b2338306d0ac18ead1bee8b774b877021ea749ef7e98c61aaf8f7",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Terrain/CIV4YieldInfos.xml",
+      "bytes": 103558,
+      "sha256": "265a480cc8250a204b7fcd2495bb7fe7a98d7b1eabca769e18bba0cc899cf079",
+      "scope": "additional XML referenced by report"
+    },
+    {
+      "relative_path": "Assets/XML/Misc/CIV4RouteInfos.xml",
+      "bytes": 1524,
+      "sha256": "5b21335133c03ae7b3f050ac30c13fac81efb052d42865633da66553e60b626b",
+      "scope": "additional XML referenced by report"
+    }
+  ],
+  "baseline_count": 31
+}

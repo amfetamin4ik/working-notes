@@ -1,0 +1,405 @@
+{
+  "LEADER_FRONTENAC": {
+    "Traits": "<Traits>\n\t\t\t\t<Trait>\n\t\t\t\t\t<TraitType>TRAIT_FURMAGNATE</TraitType>\n\t\t\t\t\t<bTrait>1</bTrait>\n\t\t\t\t</Trait>\n\t\t\t\t<Trait>\n\t\t\t\t\t<TraitType>TRAIT_DETERMINED</TraitType>\n\t\t\t\t\t<bTrait>1</bTrait>\n\t\t\t\t</Trait>\n\t\t\t</Traits>\n\t\t\t"
+  },
+  "CIVILIZATION_FRANCE": {
+    "Traits": "<Traits>\n\t\t\t\t<Trait>\n\t\t\t\t\t<TraitType>TRAIT_COOPERATIVE</TraitType>\n\t\t\t\t\t<bTrait>1</bTrait>\n\t\t\t\t</Trait>\n\t\t\t</Traits>\n\t\t\t",
+    "FreeYields": "<FreeYields>\n\t\t\t\t<FreeYield>\n\t\t\t\t\t<YieldType>YIELD_BELLS</YieldType>\n\t\t\t\t\t<iYield>1</iYield>\n\t\t\t\t</FreeYield>\n\t\t\t\t<FreeYield>\n\t\t\t\t\t<YieldType>YIELD_CROSSES</YieldType>\n\t\t\t\t\t<iYield>1</iYield>\n\t\t\t\t</FreeYield>\n\t\t\t</FreeYields>\n\t\t\t"
+  },
+  "TRAIT_COOPERATIVE": {
+    "Type": "TRAIT_COOPERATIVE",
+    "Description": "TXT_KEY_TRAIT_COOPERATIVE",
+    "ShortDescription": "TXT_KEY_TRAIT_COOPERATIVE_SHORT",
+    "iLevelExperienceModifier": "0",
+    "iGreatGeneralRateModifier": "0",
+    "iDomesticGreatGeneralRateModifier": "0",
+    "iNativeAngerModifier": "-50",
+    "iLearnTimeModifier": "-50",
+    "iNativeCombatModifier": "0",
+    "iMissionaryModifier": "0",
+    "iNativeTradeModifier": "0",
+    "iRebelCombatModifier": "0",
+    "iTaxRateThresholdModifier": "0",
+    "iMaxTaxRateThresholdDecrease": "0",
+    "iMercantileFactor": "0",
+    "iTreasureModifier": "0",
+    "iChiefGoldModifier": "0",
+    "iNativeAttitudeChange": "2",
+    "iEuropeanAttitudeChange": "0",
+    "iKingAttitudeChange": "0",
+    "iCityDefense": "0",
+    "iLandPriceDiscount": "0",
+    "iRecruitPriceDiscount": "0",
+    "iEuropeTravelTimeModifier": "0",
+    "iImmigrationThresholdModifier": "0",
+    "iPopGrowthThresholdModifier": "0",
+    "iCultureLevelModifier": "0",
+    "iPioneerSpeedModifier": "0",
+    "iImprovementPriceModifier": "0",
+    "iLearningByDoingModifier": "0",
+    "iSpecialistPriceModifier": "0",
+    "iStorageCapacityModifier": "0",
+    "CityExtraYields": "",
+    "ExtraYieldThresholds": "",
+    "ProfessionEquipmentModifiers": "",
+    "FreePromotions": "",
+    "FreePromotionUnitCombats": "",
+    "YieldModifiers": "",
+    "TaxYieldModifiers": "",
+    "BuildingYieldChanges": "",
+    "UnitMoveChanges": "",
+    "ProfessionMoveChanges": "",
+    "BuildingProductionModifiers": "",
+    "BuildingRequiredYieldModifiers": "",
+    "UnitStrengthModifiers": "",
+    "FreeBuildingClasses": "",
+    "GoodyFactors": ""
+  },
+  "HANDICAP_CONQUISTADOR": {
+    "Type": "HANDICAP_CONQUISTADOR",
+    "Description": "TXT_KEY_HANDICAP_CONQUISTADOR",
+    "Help": "TXT_KEY_HANDICAP_CONQUISTADOR_HELP",
+    "iStartingLocPercent": "90",
+    "iAdvancedStartPointsMod": "95",
+    "iGold": "0",
+    "iFatherPercent": "110",
+    "iAttitudeChange": "0",
+    "iStartingDefenseUnits": "0",
+    "iStartingWorkerUnits": "0",
+    "iStartingExploreUnits": "0",
+    "iAIStartingUnitMultiplier": "0",
+    "iAIStartingDefenseUnits": "0",
+    "iAIStartingWorkerUnits": "0",
+    "iAIStartingExploreUnits": "0",
+    "iAIDeclareWarProb": "100",
+    "iAIWorkRateModifier": "75",
+    "iAINativeCombatModifier": "50",
+    "iAIKingCombatModifier": "50",
+    "iAIRebelModifier": "50",
+    "iAIGrowthPercent": "90",
+    "iAITrainPercent": "90",
+    "iAIConstructPercent": "90",
+    "iAIUnitUpgradePercent": "50",
+    "iAIHurryPercent": "80",
+    "iAIImmigration": "10",
+    "iAIMinimumStorageLossSellPercentage": "75",
+    "iAIMaxTaxrate": "40",
+    "iAIExtraTradePercent": "15",
+    "iAIPerEraModifier": "-1",
+    "iAIAdvancedStartPercent": "110",
+    "iAIKingUnitThresholdPercent": "210",
+    "iAIAnimalLandMaxPercent": "1",
+    "iAIAnimalSeaMaxPercent": "1",
+    "iAIAnimalLandNumTurnsNoSpawn": "5",
+    "iAIAnimalSeaNumTurnsNoSpawn": "5",
+    "iKingNumUnitMultiplier": "108",
+    "iKingGoldThresholdPercent": "2",
+    "iEuropePriceThresholdMultiplier": "90",
+    "iNativePacifismPercent": "70",
+    "iMissionFailureThresholdPercent": "91",
+    "iInitMaxTaxRate": "60",
+    "iMaxGoldAskPercent": "45",
+    "iMinGoldAskPercent": "20",
+    "iNBMOD_REF_Weight": "110",
+    "iWaveTurns": "5"
+  },
+  "unit_population": [
+    {
+      "Type": "UNIT_VETERAN_INFANTRY",
+      "bFound": "1",
+      "iCombat": "1",
+      "DefaultProfession": "PROFESSION_COLONIAL_MILITIA",
+      "iEuropeCost": "1600",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_EUROPEAN_LINE_INFANTRY",
+      "bFound": "0",
+      "iCombat": "10",
+      "DefaultProfession": "NONE",
+      "iEuropeCost": "2400",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_VETERAN_DRAGOON",
+      "bFound": "1",
+      "iCombat": "1",
+      "DefaultProfession": "PROFESSION_DRAGOON",
+      "iEuropeCost": "3000",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_VETERAN_CAVALRY",
+      "bFound": "1",
+      "iCombat": "1",
+      "DefaultProfession": "PROFESSION_HEAVY_CAVALRY",
+      "iEuropeCost": "3600",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_LIGHT_ARTILLERY_VETERAN",
+      "bFound": "0",
+      "iCombat": "6",
+      "DefaultProfession": "NONE",
+      "iEuropeCost": "1600",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_HEAVY_ARTILLERY_VETERAN",
+      "bFound": "0",
+      "iCombat": "8",
+      "DefaultProfession": "NONE",
+      "iEuropeCost": "2000",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_ROYAL_ARTILLERY",
+      "bFound": "0",
+      "iCombat": "10",
+      "DefaultProfession": "NONE",
+      "iEuropeCost": "-1",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_ROYAL_LIGHT_INFANTRY",
+      "bFound": "1",
+      "iCombat": "1",
+      "DefaultProfession": "PROFESSION_ROYAL_LIGHT_INFANTRY",
+      "iEuropeCost": "-1",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_ROYAL_LINE_INFANTRY",
+      "bFound": "1",
+      "iCombat": "1",
+      "DefaultProfession": "PROFESSION_ROYAL_LINE_INFANTRY",
+      "iEuropeCost": "-1",
+      "fNBMOD_StrengthWeight": null
+    },
+    {
+      "Type": "UNIT_ROYAL_CAVALRY",
+      "bFound": "1",
+      "iCombat": "1",
+      "DefaultProfession": "PROFESSION_ROYAL_CAVALRY",
+      "iEuropeCost": "-1",
+      "fNBMOD_StrengthWeight": null
+    }
+  ],
+  "calendar": {
+    "1520": [
+      28
+    ],
+    "1550": [
+      58
+    ],
+    "1585": [
+      93
+    ],
+    "1600": [
+      111
+    ],
+    "1615": [
+      131
+    ],
+    "1630": [
+      151
+    ],
+    "1640": [
+      164,
+      165
+    ],
+    "1650": [
+      178
+    ],
+    "1660": [
+      196,
+      197
+    ],
+    "1670": [
+      216,
+      217
+    ]
+  },
+  "turn_calendar": {
+    "100": {
+      "year": 1592,
+      "month": 1
+    },
+    "140": {
+      "year": 1622,
+      "month": 1
+    },
+    "150": {
+      "year": 1629,
+      "month": 7
+    },
+    "160": {
+      "year": 1637,
+      "month": 1
+    },
+    "164": {
+      "year": 1640,
+      "month": 1
+    },
+    "168": {
+      "year": 1643,
+      "month": 1
+    },
+    "175": {
+      "year": 1648,
+      "month": 4
+    },
+    "180": {
+      "year": 1652,
+      "month": 1
+    },
+    "190": {
+      "year": 1657,
+      "month": 1
+    },
+    "200": {
+      "year": 1662,
+      "month": 1
+    },
+    "210": {
+      "year": 1667,
+      "month": 1
+    },
+    "215": {
+      "year": 1669,
+      "month": 7
+    },
+    "216": {
+      "year": 1670,
+      "month": 1
+    }
+  },
+  "bell_latency_P40": {
+    "80": {
+      "50": [
+        null,
+        1991
+      ],
+      "80": [
+        null,
+        1991
+      ],
+      "100": [
+        null,
+        1991
+      ]
+    },
+    "81": {
+      "50": [
+        44,
+        2001
+      ],
+      "80": [
+        null,
+        2016
+      ],
+      "100": [
+        null,
+        2016
+      ]
+    },
+    "100": {
+      "50": [
+        16,
+        2032
+      ],
+      "80": [
+        null,
+        2491
+      ],
+      "100": [
+        null,
+        2491
+      ]
+    },
+    "120": {
+      "50": [
+        11,
+        2055
+      ],
+      "80": [
+        null,
+        2991
+      ],
+      "100": [
+        null,
+        2991
+      ]
+    },
+    "129": {
+      "50": [
+        10,
+        2098
+      ],
+      "80": [
+        48,
+        3200
+      ],
+      "100": [
+        null,
+        3216
+      ]
+    },
+    "140": {
+      "50": [
+        9,
+        2141
+      ],
+      "80": [
+        24,
+        3216
+      ],
+      "100": [
+        null,
+        3491
+      ]
+    },
+    "160": {
+      "50": [
+        7,
+        2085
+      ],
+      "80": [
+        16,
+        3255
+      ],
+      "100": [
+        null,
+        3991
+      ]
+    },
+    "200": {
+      "50": [
+        5,
+        2047
+      ],
+      "80": [
+        10,
+        3254
+      ],
+      "100": [
+        16,
+        4070
+      ]
+    }
+  },
+  "DLL_PE": {
+    "Colonization.exe": {
+      "coff_timestamp_raw": 1235779990,
+      "coff_timestamp_utc": "2009-02-28T00:13:10+00:00"
+    },
+    "Assets/CvGameCoreDLL.dll": {
+      "coff_timestamp_raw": 1788340333,
+      "coff_timestamp_utc": "2026-09-02T09:12:13+00:00"
+    }
+  },
+  "existing_definitions_check": {
+    "matched": 422,
+    "mismatches": []
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "self_checks": "passed",
+  "scope": "Fixed-input models of supplied SDK/XML; not proof of DLL equivalence or a record victory",
+  "rebel_P40": {
+    "80": {
+      "turns": null,
+      "sentiments": [
+        1991
+      ],
+      "reached": false
+    },
+    "81": {
+      "turns": 44,
+      "sentiments": [
+        2001
+      ],
+      "reached": true
+    },
+    "100": {
+      "turns": 16,
+      "sentiments": [
+        2032
+      ],
+      "reached": true
+    },
+    "120": {
+      "turns": 11,
+      "sentiments": [
+        2055
+      ],
+      "reached": true
+    },
+    "160": {
+      "turns": 7,
+      "sentiments": [
+        2085
+      ],
+      "reached": true
+    },
+    "200": {
+      "turns": 5,
+      "sentiments": [
+        2047
+      ],
+      "reached": true
+    }
+  },
+  "equal_strength_combat": {
+    "round_p_attacker": "1/2",
+    "damage_to_attacker": 20,
+    "damage_to_defender": 20,
+    "hits_needed_a": 5,
+    "hits_needed_d": 5,
+    "kill": "29/128",
+    "death": "29/128",
+    "draw": "35/64",
+    "kill_percent": 22.65625,
+    "draw_percent": 54.6875
+  },
+  "exact_equal_strength_fractions": {
+    "kill": "29/128",
+    "death": "29/128",
+    "draw": "70/128"
+  },
+  "father_modifier": 228,
+  "calendar": {
+    "164": {
+      "year": 1640,
+      "month": 1
+    },
+    "178": {
+      "year": 1650,
+      "month": 7
+    },
+    "196": {
+      "year": 1660,
+      "month": 1
+    },
+    "197": {
+      "year": 1660,
+      "month": 7
+    },
+    "215": {
+      "year": 1669,
+      "month": 7
+    },
+    "216": {
+      "year": 1670,
+      "month": 1
+    },
+    "217": {
+      "year": 1670,
+      "month": 7
+    }
+  },
+  "army": {
+    "8_4_3": 42380,
+    "10_6_4": 59150,
+    "8_4_3_smith": 33904,
+    "10_6_4_smith": 47320
+  },
+  "france_T2_coats_thresholds": [
+    {
+      "astor": false,
+      "health": 0,
+      "local_rebel_min": 48,
+      "coats": 50,
+      "fur_input": 36
+    },
+    {
+      "astor": false,
+      "health": 10,
+      "local_rebel_min": 28,
+      "coats": 50,
+      "fur_input": 36
+    },
+    {
+      "astor": true,
+      "health": 0,
+      "local_rebel_min": 34,
+      "coats": 50,
+      "fur_input": 36
+    },
+    {
+      "astor": true,
+      "health": 10,
+      "local_rebel_min": 14,
+      "coats": 50,
+      "fur_input": 36
+    }
+  ],
+  "france_T3_coats_no_other_bonuses": 59,
+  "cpp_signed_division": {
+    "minus19_div10": -1
+  },
+  "baseline_verification": {
+    "checked": 31,
+    "mismatched": [],
+    "missing": [],
+    "all_match": true
+  },
+  "source_verification": {
+    "checked": 44,
+    "mismatched": [],
+    "missing": [],
+    "all_match": true
+  },
+  "html_validation": {
+    "tables": 42,
+    "sections": 6,
+    "sourceLinks": 463,
+    "internalAnchors": "passed",
+    "externalResources": 0,
+    "bytes": 643436
+  },
+  "artifact_qa": {
+    "markdown_files_checked": 7,
+    "local_links_checked": 972,
+    "errors": [],
+    "package_files": 13,
+    "package_bytes": 1794975,
+    "html_sha256": "290f406704720cee19bd74a0a568734e4eca15ba8e4f5b9c5abb8e9f2dbf6958"
+  },
+  "schedule_validation": {
+    "status": "passed",
+    "turns": 216,
+    "named_purchases": 33,
+    "material_groups": 6,
+    "calendar_reference_points": 7,
+    "shopping_prices_and_staff": "passed",
+    "building_dependency_order": "passed",
+    "army_capacity_and_deadlines": "passed",
+    "wagon_costs_and_road_supply": "passed",
+    "html_anchors": "passed",
+    "external_resources": 0,
+    "javascript": "syntax checked by renderer; no visual browser run",
+    "current_sources": {
+      "checked": 44,
+      "mismatched": [],
+      "missing": [],
+      "all_match": true
+    },
+    "scope": "Planned dates, not a simulated or proven save-game outcome"
+  },
+  "web_copy": {
+    "scope": "QA above describes the original local report, before path anonymization and web packaging.",
+    "personal_paths_removed": true
+  }
+}
