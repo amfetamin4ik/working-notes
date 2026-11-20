@@ -1,0 +1,17 @@
+{
+  "video": "17847266839059.mp4",
+  "duration_seconds": 8391.866656,
+  "size_bytes": 1352603892,
+  "resolution": "1280x720",
+  "main_attempt_start_seconds": 474,
+  "main_turns": 177,
+  "victory": {
+    "year": 1649,
+    "month": 1,
+    "turn_from_zero": 176,
+    "proof_frame": "кадры/016766.jpg"
+  },
+  "observations": 514,
+  "scope": "whole-duration significant-event review; not an exhaustive click, worker-route or combat log",
+  "audio_transcribed": false
+}
